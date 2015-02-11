@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 packages to &apos;WebCrawler/src/main/java&apos;&#x0A;- Original project: &apos;crawler&apos;&#x0A;- Destination element: &apos;WebCrawler/src/main/java&apos;&#x0A;- Original elements:&#x0A;     crawler/src/com.pramati.crawler.mailDownloader&#x0A;     crawler/src/com.pramati.crawler.mailDownloaderServices&#x0A;     crawler/src/com.pramati.crawler.mycrawler&#x0A;     crawler/src/com.pramati.crawler.uti" description="Copy packages" destination="=WebCrawler/src\/main\/java" element1="/src&lt;com.pramati.crawler.mailDownloader" element2="/src&lt;com.pramati.crawler.mailDownloaderServices" element3="/src&lt;com.pramati.crawler.mycrawler" element4="/src&lt;com.pramati.crawler.uti" flags="589830" fragments="4" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1423636390877" version="1.0"/>
+</session>
