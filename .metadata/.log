@@ -293,3 +293,6 @@ org.eclipse.jgit.errors.TransportException: https://github.com/dsrcsebit/WebCraw
 
 !ENTRY org.eclipse.egit.ui 4 0 2015-02-11 12:19:41.019
 !MESSAGE Can't connect to any repository: https://github.com/dsrcsebit/WebCrawler.git (https://github.com/dsrcsebit/WebCrawler.git: not authorized)
+
+!ENTRY org.eclipse.ui.browser 2 0 2015-02-11 12:35:33.139
+!MESSAGE Internal browser is not available: No more handles [Unknown Mozilla path (MOZILLA_FIVE_HOME not set)]
